@@ -106,10 +106,11 @@
 <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-hand-wash-hands-justicon-lineal-color-justicon-2.png"/> 
 <p> connect with me:</p>
 </div>
-<br/>
 <div>
-<a style=" margin-right:20px" href = "https://www.linkedin.com/in/al-amiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-<a href = "https://www.instagram.com/all_amiiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/al-amiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+<a target="_blank" href = "https://www.instagram.com/all_amiiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+<a target="_blank" href="mailto:engineeralamiir@gmail.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>    
+    
 </div>
 <hr/>
 <br/>
