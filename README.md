@@ -1,17 +1,20 @@
-<div style="display:flex ; align-items: center; flex-direction: column; filter: drop-shadow(2px 4px 6px black)saturate(2.5) contrast(2);"  >
-<p><img width="80px" src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/000000/external-Welcome-miscellany-texts-and-badges-bearicons-outline-color-bearicons.png"/></p>
-<div style="display:flex ; align-items: end ; justify-content:center; font-size:30px" ><p  style="line-height:2;margin-right:10px ; color:#00F78D"> I'm Al-Amir</p> <img src="https://img.icons8.com/fluency/48/000000/crown.png"/></div>
-<div style="display:flex ; align-items: end ; justify-content:center; font-size:30px"> <p style="line-height:1.8 ;margin-right:10px; color:#00F78D">From Egypt </p> <img height="50px" src="https://img.icons8.com/color/48/000000/pyramids.png"/>   <img width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-cat-egypt-justicon-lineal-color-justicon.png"/></div>
+<div align="center style="display:flex ; align-items: center; flex-direction: column; filter: drop-shadow(2px 4px 6px black)saturate(2.5) contrast(2);"  >
+<p align="center"><img width="80px" src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/000000/external-Welcome-miscellany-texts-and-badges-bearicons-outline-color-bearicons.png"/></p>
+
+<div align="center" style="display:flex ; align-items: end ; justify-content:center; font-size:30px" ><p  style="line-height:2;margin-right:10px ; color:#00F78D"> I'm Al-Amir</p> <img src="https://img.icons8.com/fluency/48/000000/crown.png"/></div>
+
+<div align="center" style="display:flex ; align-items: end ; justify-content:center; font-size:30px"> <p style="line-height:1.8 ;margin-right:10px; color:#00F78D">From Egypt </p> <img height="50px" src="https://img.icons8.com/color/48/000000/pyramids.png"/>  </div>
 </div>
+
+<P align="center" style="border:3px solid black ; border-radius:5px; background-color:darkblue;  display:flex;justify-content:center;align-items-center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2300F78D&size=22&center=true&vCenter=true&width=420&lines=Front-end+Web+Developer;">
+</p>
 
 <a href="#"><img style="border:20px solid black"  width="100%" height="auto" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4726av0c10nomqhkj8k1azspl08n9kurpj6cd239vr&rid=giphy.gif&ct=g" height="175px"/></a>
 
 
 
-<!-- <h1 align="center">Hello, I'm Al-Amir, From Egypt  <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e471kdqdp8dewtu79b0q0dnu3sw4d0g7q0yszvrfokf&rid=giphy.gif&ct=s"  width="60px"></h1> -->
-<P  style="border:3px solid black ; border-radius:5px; background-color:darkblue;  display:flex;justify-content:center;align-items-center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2300F78D&size=22&center=true&vCenter=true&width=420&lines=Front-end+Web+Developer;">
-</p>
+
 
 <br/>
 <br/>
