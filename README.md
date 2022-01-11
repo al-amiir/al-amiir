@@ -51,10 +51,7 @@
     <a style="margin-right:10px" href="https://www.w3.org/html/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a style="margin-right:10px" href="https://www.w3schools.com/css/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="margin-right:10px" href="https://getbootstrap.com" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="margin-right:10px" href="https://www.python.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
-    <a style="margin-right:10px" style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="margin-right:10px" style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/webpack.png"/> </a>
-    <a style="margin-right:10px" href="https://www.mongodb.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
+    <a style="margin-right:10px" href="https://www.python.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a style="margin-right:10px" href="https://postman.com" target="_blank"> <img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" /> </a>   
     <a style="margin-right:10px" href="https://git-scm.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a style="margin-right:10px" href="https://redux.js.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
