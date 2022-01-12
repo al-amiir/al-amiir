@@ -37,7 +37,7 @@
 
 - <img width="20px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**
 
-- <img width="20px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/> All of my projects are available at **[My Portfolio](https://al-amiir.github.io/)**
+- <img width="20px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/>  All of my projects are available at **[My Portfolio](https://al-amiir.github.io/)**
 
 - <img width="20px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/> How to reach me **engineeralamiir@gmail.com**
 
