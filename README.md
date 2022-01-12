@@ -33,7 +33,7 @@
 
 -  <img width="20px" src="https://img.icons8.com/color/48/000000/fire-element--v2.png"/> I’m always starving for a new skill to learn & a challenge to conquer.
 
-- <img width="20px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-book-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/> I’m currently learning **JS Testing**
+- <img width="20px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-book-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/> I’m currently learning **graphQL*
 
 - <img width="20px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**
 
@@ -59,7 +59,7 @@
     <a style="margin-right:10px" href="https://www.w3.org/html/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a style="margin-right:10px" href="https://www.w3schools.com/css/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="margin-right:10px" href="https://getbootstrap.com" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="margin-right:10px" href="https://www.python.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
+    <a style="margin-right:10px" href="https://sass-lang.com/install" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a style="margin-right:10px" href="https://postman.com" target="_blank"> <img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" /> </a>   
     <a style="margin-right:10px" href="https://git-scm.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a style="margin-right:10px" href="https://redux.js.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
@@ -115,6 +115,8 @@
 <a target="_blank" href = "https://www.linkedin.com/in/al-amiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/all_amiiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <a target="_blank" href="mailto:engineeralamiir@gmail.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>    
+<a target="_blank" href="https://www.hackerrank.com/alamiir"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>        
+    
     
 </div>
 <hr/>
