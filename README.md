@@ -1,15 +1,23 @@
-<div  align="center">
-<p align="center"><img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/100/000000/external-Welcome-miscellany-texts-and-badges-bearicons-outline-color-bearicons.png"/></p>
-</div>
+<p align="center">
+    <img src="https://img.icons8.com/external-bearicons-outline-color-bearicons/100/000000/external-Welcome-miscellany-texts-and-badges-bearicons-outline-color-bearicons.png"/>
+</p>
 
-<div align="center"><p> I'm Al-Amir</p> <img src="https://img.icons8.com/fluency/48/000000/crown.png"/></div>
-
-<div align="center" style="display:flex ; align-items: end ; justify-content:center; font-size:30px"> <p style="line-height:1.8 ;margin-right:10px; color:#00F78D">From Egypt </p> <img height="50px" src="https://img.icons8.com/color/48/000000/pyramids.png"/>  
-</div>
+<h1 align="center">
+    <p> I'm Al-Amir</p> 
+    <img src="https://img.icons8.com/fluency/48/000000/crown.png"/>
+    <p style="line-height:1.8 ;margin-right:10px; color:#00F78D">From Egypt </p> 
+   <div> 
+       <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-egypt-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
+       <img height="70px" src="https://img.icons8.com/color/48/000000/pyramids.png"/>  
+       <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-cat-egypt-justicon-lineal-color-justicon.png"/>
+   </div>
+<!--    <img src="https://readme-typing-svg.herokuapp.com?color=%2300F78D&size=22&center=true&vCenter=true&width=420&lines=Front-end+Web+Developer;"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2302F75D&size=30&center=true&vCenter=true&width=413&lines=Front-end+Web+Developer" />
+    
+</h1>
 
 
 <P align="center" style="border:3px solid black ; border-radius:5px; background-color:darkblue;  display:flex;justify-content:center;align-items-center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2300F78D&size=22&center=true&vCenter=true&width=420&lines=Front-end+Web+Developer;">
 </p>
 
 <!-- Gif  -->
@@ -23,17 +31,17 @@
     <p style="font-size:20px ; margin-left:10px" > about me:</p>
 </div>
 
-- 🔭 I’m always starving for new skill to learn & challenge to concer.
+-  <img width="20px" src="https://img.icons8.com/color/48/000000/fire-element--v2.png"/> I’m always starving for a new skill to learn & a challenge to conquer.
 
-- 🌱 I’m currently learning **JS Testing.**
+- <img width="20px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-book-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/> I’m currently learning **JS Testing**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- <img width="20px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://al-amiir.github.io/)**
+- <img width="20px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/> All of my projects are available at **[My Portfolio](https://al-amiir.github.io/)**
 
-- 📫 How to reach me **engineeralamiir@gmail.com**
+- <img width="20px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/> How to reach me **engineeralamiir@gmail.com**
 
-- ⚡ Fun fact **I love animations, colors, coding, art and go to the GYM very often.**
+- <img width="20px" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/000000/external-happy-heart-feeling-tulpahn-outline-color-tulpahn.png"/> Fun fact **I love animations, colors, coding, art and go to the GYM very often.**
 
 <hr/>
 <br/>
