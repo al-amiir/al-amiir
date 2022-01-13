@@ -115,8 +115,8 @@
 <a target="_blank" href = "https://www.linkedin.com/in/al-amiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/all_amiiir/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <a target="_blank" href="mailto:engineeralamiir@gmail.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>    
-<a target="_blank" href="https://www.hackerrank.com/alamiir"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>        
-    
+<a target="_blank" href="https://www.hackerrank.com/alamiir"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>  
+<a target="_blank" href="https://www.youtube.com/channel/UCVQzuaxXlqa8xgwA5xAQY4Q"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png"/></a>   
     
 </div>
 <hr/>
