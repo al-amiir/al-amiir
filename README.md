@@ -75,7 +75,7 @@
   <a style="margin-right:10px" href="https://sass-lang.com/install" target="_blank"> 
        <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
     </a> 
-  <a style="margin-right:10px" href="https://postman.com" target="_blank"> 
+  <a widt="49px" href="https://postman.com" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
     </a> 
   <a style="margin-right:10px" href="https://git-scm.com/" target="_blank"> 
