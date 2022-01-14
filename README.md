@@ -63,7 +63,10 @@
     <a style="margin-right:10px" href="https://postman.com" target="_blank"> <img width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" /> </a>   
     <a style="margin-right:10px" href="https://git-scm.com/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a style="margin-right:10px" href="https://redux.js.org" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a style="margin-right:10px" href="https://expressjs.com" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
+    <a style="margin-right:10px" href="https://www.howtographql.com/basics/0-introduction/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
+    <a style="margin-right:10px" href="https://spline.design/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/paint-3d.png"/> </a>
+
+    
 </div>
 <hr/>
 
