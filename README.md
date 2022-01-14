@@ -54,17 +54,17 @@
 </div>
 
 <div> 
-    <a style="margin-right:10px" href="https://reactjs.org/" target="_blank"> 
+<!--     <a style="margin-right:10px" href="https://reactjs.org/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50px"/>
     </a>
    <a style="margin-right:10px" href="https://mui.com/" target="_blank"> 
        <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 
-    </a> 
+    </a>  -->
     
     <a style="margin-right:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img  width="50px"src="https://img.icons8.com/color/48/000000/javascript.png"/> 
     </a> 
-    <a style="margin-right:10px" href="https://www.w3.org/html/" target="_blank"> 
+<!--     <a style="margin-right:10px" href="https://www.w3.org/html/" target="_blank"> 
         <img width="50px" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
     </a> 
     <a style="margin-right:10px" href="https://www.w3schools.com/css/" target="_blank"> 
@@ -94,7 +94,7 @@
         
     <a style="margin-right:10px" href="https://spline.design/" target="_blank"> 
         <img src="https://img.icons8.com/fluency/50/000000/paint-3d.png"/> 
-    </a>
+    </a> -->
 
     
 </div>
