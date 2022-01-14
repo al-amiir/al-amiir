@@ -33,7 +33,7 @@
 
 -  <img width="20px" src="https://img.icons8.com/color/48/000000/fire-element--v2.png"/> I’m always starving for a new skill to learn & a challenge to conquer.
 
-- <img width="20px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-book-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/> I’m currently learning **graphQL*
+- <img width="20px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-book-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/> I’m currently learning **graphQL**
 
 - <img width="20px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**
 
