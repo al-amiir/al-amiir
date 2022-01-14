@@ -60,12 +60,10 @@
    <a style="margin-right:10px" href="https://mui.com/" target="_blank"> 
        <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 
     </a> 
-   <a style="margin-right:10px" href="https://mui.com/" target="_blank"> 
-       <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 
-    </a> 
-    
+
     <a style="margin-right:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img  width="50px"src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<!--         <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  -->
+        <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> 
     </a> 
     <a style="margin-right:10px" href="https://www.w3.org/html/" target="_blank"> 
         <img width="50px" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
