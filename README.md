@@ -16,9 +16,9 @@
     
 </h1>
 
-<p align="center">
+<!-- <p align="center">
 at **[My Portfolio](https://al-amiir.github.io/)**
-</p>
+</p> -->
 <!-- Gif  -->
 <a href="#"><img width="100%" height="auto" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4726av0c10nomqhkj8k1azspl08n9kurpj6cd239vr&rid=giphy.gif&ct=g" height="175px"/></a>
 <br/>
