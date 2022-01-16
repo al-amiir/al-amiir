@@ -16,10 +16,6 @@
     
 </h1>
 
-
-<P align="center" style="border:3px solid black ; border-radius:5px; background-color:darkblue;  display:flex;justify-content:center;align-items-center">
-</p>
-
 <!-- Gif  -->
 <a href="#"><img width="100%" height="auto" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4726av0c10nomqhkj8k1azspl08n9kurpj6cd239vr&rid=giphy.gif&ct=g" height="175px"/></a>
 <br/>
