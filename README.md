@@ -30,29 +30,37 @@ at **[My Portfolio](https://al-amiir.github.io/)**
     <p style="font-size:20px ; margin-left:10px" > about me:</p>
 </div>
 
--  <img width="20px" src="https://img.icons8.com/color/48/000000/fire-element--v2.png"/> I’m always starving for a new skill to learn & a challenge to conquer.
+-  <img width="30px" src="https://img.icons8.com/color/48/000000/fire-element--v2.png"/> I’m always starving for a new skill to learn & a challenge to conquer.
 
-- <img width="20px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-book-back-to-school-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/> I’m currently learning **graphQL**
+- <img width="30px" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/70/null/external-working-work-from-home-itim2101-lineal-color-itim2101-1.png"/> I’m currently working @<a target="_blank" href="https://www.linkedin.com/company/rushbrushofficial/about/">RushBrush,INC</a>.
 
-- <img width="20px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**
+- <img width="30px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/> How to reach me **engineeralamiir@gmail.com**. 
 
-- <img width="20px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/>  All of my projects are available at **[My Portfolio](https://al-amiir.github.io/)**
+- <img width="30px" src="https://img.icons8.com/plasticine/100/null/contract-job.png"/> Here is my updated <a href="https://docs.google.com/document/d/1Ib8fcVEwBZkPbYGxaiinklCVOFpSoUs7RKY_7aIa1Ic/edit" target="_blank" >Resume</a>. 
 
-- <img width="20px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/> How to reach me **engineeralamiir@gmail.com**
+- <img width="30px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/> Checkout my Latest <a target="_blank" href="(https://portfolio-al-amir.herokuapp.com/)">Portfolio</a>, My first <a target="_blank" href="https://al-amiir.github.io)">Portfolio</a>.
+ 
+- <img width="30px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**.
 
-- <img width="20px" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/000000/external-happy-heart-feeling-tulpahn-outline-color-tulpahn.png"/> Fun fact **I love animations, colors, coding, art and go to the GYM very often.**
+- <img width="30px" src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/64/000000/external-happy-heart-feeling-tulpahn-outline-color-tulpahn.png"/> Fun fact **I love fashion, animations, colors, coding, art and go to the GYM very often**.
 
 <hr/>
 <br/>
 <br/>
 
-<!-- languages and tools  -->
+<!-- Skills and tools  -->
 <div>
 <img src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-repair-tools-home-activity-photo3ideastudio-lineal-color-photo3ideastudio.png"/>
-<p style="font-size:20px ; margin-left:10px" > Languages and tools:</p>
+<p style="font-size:20px ; margin-left:10px" > Skills and tools:</p>
 </div>
 
 <div> 
+    <a style="margin-right:10px" href="https://vuejs.org/" target="_blank"> 
+        <img src="https://img.icons8.com/color/70/null/vue-js.png" width="50px" />
+    </a>
+    <a style="margin-right:10px" href="https://nuxtjs.org/" target="_blank">         
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/70/null/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" width="50px"/>
+    </a>
     <a style="margin-right:10px" href="https://reactjs.org/" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50px"/>
     </a>
