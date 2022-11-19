@@ -38,7 +38,7 @@ at **[My Portfolio](https://al-amiir.github.io/)**
 
 - <img width="30px" src="https://img.icons8.com/plasticine/100/null/contract-job.png"/> Here is my updated <a href="https://docs.google.com/document/d/1Ib8fcVEwBZkPbYGxaiinklCVOFpSoUs7RKY_7aIa1Ic/edit" target="_blank" >Resume</a>. 
 
-- <img width="30px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/> Checkout my Latest <a target="_blank" href="(https://portfolio-al-amir.herokuapp.com/)">Portfolio</a>, My first <a target="_blank" href="https://al-amiir.github.io)">Portfolio</a>.
+- <img width="30px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-analytics-data-analytics-soft-fill-soft-fill-juicy-fish-32.png"/> Checkout my Latest <a target="_blank" href="https://portfolio-al-amir.herokuapp.com/">Portfolio</a>,and my first <a target="_blank" href="https://al-amiir.github.io">Portfolio</a>.
  
 - <img width="30px" src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/> I’m looking to collaborate on **OpenSource Projects**.
 
